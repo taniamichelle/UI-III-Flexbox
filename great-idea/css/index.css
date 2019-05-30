@@ -72,13 +72,11 @@ header {
 	justify-content: space-between;
 	width: 1400px;
 	color: grey;
-	border: 2px solid red;
 }
 
 .services-header-img {
 	padding: 20px;
 	margin: 20px;
-	border: 2px solid grey;
 	width: 97%;
 }
 
@@ -89,7 +87,6 @@ header {
 	margin: 20px;
 	width: 1400px;
 	height: 100px;
-	border: 2px solid pink;
 }
 .container  {
 	padding: 10px;
@@ -100,12 +97,11 @@ header {
 	align-items: stretch;
 	text-align: center;
 	width: 1400px;
-	height: 530px;
-	border: 2px solid green;
+	height: 650px;
 }
 .box {
-	margin: 10px;
-	padding: 10px;
+	margin: 20px;
+	padding: 20px;
 	border: 2px solid black;
 	width: 600px;
 	text-align: left;
@@ -119,7 +115,6 @@ header {
 	margin: 5px;
 	padding: 5px;
 	justify-content: space-between;
-	border: 2px purple;
 	width: 1400px;
 }
 .facts {
@@ -127,7 +122,6 @@ header {
 	margin: 25px;
 	padding: 20px;
 	text-align: left;
-	border: 2px solid turquoise;
 }
 
 ul {
@@ -140,11 +134,10 @@ li {
 }
 
 .last {
-	width: 500px;
+	width: 700px;
 	margin: 10px;
 	padding: 10px;
 	text-align: center;
-	border: 2px solid rosybrown
 }
 
 hr {
